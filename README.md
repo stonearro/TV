@@ -10,6 +10,8 @@
 
 来源：https://ghps.cc/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json
 
+CK：https://codeberg.org/looktv/my/raw/branch/main/ck.json
+
 
 
 
